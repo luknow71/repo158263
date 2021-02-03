@@ -1,3 +1,3 @@
 # repo158263
 
-*Egzamin*
+`*Egzamin*`
